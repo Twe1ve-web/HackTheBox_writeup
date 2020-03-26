@@ -2,7 +2,7 @@
 
 User1:
 
-Ldap find smothing you want
+find smothing you want via Ld**
 
 Brute （but think what will a lazy Administrator do）
 
