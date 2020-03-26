@@ -6,7 +6,7 @@
 根据HackTheBox的规则，Active Machines部分writeup会加密
 
 所以，我在这里上传我的加密writeup
-####其实没什么意义了，反正大家也解不开
+####其实没什么意义了，因为动态flag，即使拿到root大家也解不开我这个
 
 但是会在每一个关卡readme.md中提供一丢丢思路
 
