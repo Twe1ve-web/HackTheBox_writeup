@@ -1,4 +1,4 @@
-# HackTheBox_writeup_Forest
+# HackTheBox_writeup
 
 这里是Active Machines部分的writeup
 
