@@ -1,4 +1,5 @@
 #HackTheBox_writeup_Resolute
+
 User:
 
 e***4___x
