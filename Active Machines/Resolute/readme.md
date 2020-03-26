@@ -1,4 +1,4 @@
-#HackTheBox_writeup_Resolute
+# HackTheBox_writeup_Resolute
 
 User:
 
