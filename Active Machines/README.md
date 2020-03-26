@@ -1,11 +1,3 @@
 # HackTheBox_writeup_Forest
 
-user:
-
-e***4***x
-
-I*p****t
-
-root:
-
-Exc****ge
+这里是Active Machines部分的writeup
