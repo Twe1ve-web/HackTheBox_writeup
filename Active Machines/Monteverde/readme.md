@@ -10,5 +10,5 @@ Enum for user2
 
 Root：
 
-Azure PrivEsc use User2 as D**ync 
+Azure PrivEsc ： use User2 as D**ync 
 
